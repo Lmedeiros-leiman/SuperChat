@@ -4,6 +4,8 @@ Este projeto foi feito utilizando [React](https://github.com/facebook/create-rea
 
 Este projeto foi feito utilizando Firebase
 
+O projeto pode ser [visualizado por este link](https://lmedeiros-leiman.github.io/SuperChat/)
+
 ## detalhes:
 
 Para utilizar o app será nescessario se logar com uma conta google para então poder utilizar o chat. as informações da conta são guardadas no firestore e não são utilizadas para nada alem de determinar a conta que esta sendo usada para conversar.
